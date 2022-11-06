@@ -28,7 +28,7 @@ namespace CreateLogLibrary
             {
                 File.Create(filePath).Close();
             }
-            StreamWriter writer = new StreamWriter(filePath, false);
+            StreamWriter writer = new StreamWriter(filePath, true);
             await writer.WriteLineAsync(DateTime.Now.ToString() + " Ошибка: " + e.ToString());
             writer.Close();
         }
