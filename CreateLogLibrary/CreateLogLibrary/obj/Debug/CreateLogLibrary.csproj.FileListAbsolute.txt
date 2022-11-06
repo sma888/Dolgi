@@ -1,0 +1,6 @@
+E:\Мои документы\Магамет\C#\Долги\CreateLogLibrary\CreateLogLibrary\bin\Debug\CreateLogLibrary.dll
+E:\Мои документы\Магамет\C#\Долги\CreateLogLibrary\CreateLogLibrary\bin\Debug\CreateLogLibrary.pdb
+E:\Мои документы\Магамет\C#\Долги\CreateLogLibrary\CreateLogLibrary\obj\Debug\CreateLogLibrary.csproj.AssemblyReference.cache
+E:\Мои документы\Магамет\C#\Долги\CreateLogLibrary\CreateLogLibrary\obj\Debug\CreateLogLibrary.csproj.CoreCompileInputs.cache
+E:\Мои документы\Магамет\C#\Долги\CreateLogLibrary\CreateLogLibrary\obj\Debug\CreateLogLibrary.dll
+E:\Мои документы\Магамет\C#\Долги\CreateLogLibrary\CreateLogLibrary\obj\Debug\CreateLogLibrary.pdb

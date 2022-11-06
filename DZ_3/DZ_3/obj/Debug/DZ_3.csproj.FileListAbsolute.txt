@@ -1,0 +1,17 @@
+E:\Мои документы\Магамет\C#\Долги\DZ_3\DZ_3\bin\Debug\DZ_3.exe.config
+E:\Мои документы\Магамет\C#\Долги\DZ_3\DZ_3\bin\Debug\DZ_3.exe
+E:\Мои документы\Магамет\C#\Долги\DZ_3\DZ_3\bin\Debug\DZ_3.pdb
+E:\Мои документы\Магамет\C#\Долги\DZ_3\DZ_3\obj\Debug\DZ_3.csproj.AssemblyReference.cache
+E:\Мои документы\Магамет\C#\Долги\DZ_3\DZ_3\obj\Debug\DZ_3.csproj.SuggestedBindingRedirects.cache
+E:\Мои документы\Магамет\C#\Долги\DZ_3\DZ_3\obj\Debug\MainWindow.g.cs
+E:\Мои документы\Магамет\C#\Долги\DZ_3\DZ_3\obj\Debug\App.g.cs
+E:\Мои документы\Магамет\C#\Долги\DZ_3\DZ_3\obj\Debug\DZ_3_MarkupCompile.cache
+E:\Мои документы\Магамет\C#\Долги\DZ_3\DZ_3\obj\Debug\DZ_3_MarkupCompile.lref
+E:\Мои документы\Магамет\C#\Долги\DZ_3\DZ_3\obj\Debug\App.baml
+E:\Мои документы\Магамет\C#\Долги\DZ_3\DZ_3\obj\Debug\MainWindow.baml
+E:\Мои документы\Магамет\C#\Долги\DZ_3\DZ_3\obj\Debug\DZ_3.g.resources
+E:\Мои документы\Магамет\C#\Долги\DZ_3\DZ_3\obj\Debug\DZ_3.Properties.Resources.resources
+E:\Мои документы\Магамет\C#\Долги\DZ_3\DZ_3\obj\Debug\DZ_3.csproj.GenerateResource.cache
+E:\Мои документы\Магамет\C#\Долги\DZ_3\DZ_3\obj\Debug\DZ_3.csproj.CoreCompileInputs.cache
+E:\Мои документы\Магамет\C#\Долги\DZ_3\DZ_3\obj\Debug\DZ_3.exe
+E:\Мои документы\Магамет\C#\Долги\DZ_3\DZ_3\obj\Debug\DZ_3.pdb
