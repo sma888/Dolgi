@@ -29,7 +29,7 @@ namespace CreateLogLibrary
                 File.Create(filePath).Close();
             }
             StreamWriter writer = new StreamWriter(filePath, false);
-            await writer.WriteLineAsync("Ошибка: " + e.ToString());
+            await writer.WriteLineAsync(DateTime.Now.ToString() + " Ошибка: " + e.ToString());
             writer.Close();
         }
     }
