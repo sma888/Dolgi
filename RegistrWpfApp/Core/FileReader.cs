@@ -9,7 +9,7 @@ namespace RegistrWpfApp.Core
         public ObservableCollection<Teacher> Teacher()
         {
             var teacherList = new ObservableCollection<Teacher>();
-            using (StreamReader teacherReader = new StreamReader(@"E:\Мои документы\Магамет\C#\Долги\hehe\RegistrWpfApp\File\Teachers.txt"))
+            using (StreamReader teacherReader = new StreamReader(@"..\..\File\Teachers.txt"))
             {
                 foreach (var item in teacherReader.ReadToEnd().Split('\n'))
                 {
@@ -33,7 +33,7 @@ namespace RegistrWpfApp.Core
         public ObservableCollection<Lesson> Lesson()
         {
             var lessonList = new ObservableCollection<Lesson>();
-            using (StreamReader subjectReader = new StreamReader(@"E:\Мои документы\Магамет\C#\Долги\hehe\RegistrWpfApp\File\Lesson.txt"))
+            using (StreamReader subjectReader = new StreamReader(@"..\..\File\Lesson.txt"))
             {
                 foreach (var item in subjectReader.ReadToEnd().Split('\n'))
                 {

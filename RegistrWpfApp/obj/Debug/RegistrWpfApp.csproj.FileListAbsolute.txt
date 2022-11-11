@@ -19,7 +19,6 @@ E:\Мои документы\Магамет\C#\Долги\hehe\RegistrWpfApp\bin
 E:\Мои документы\Магамет\C#\Долги\hehe\RegistrWpfApp\bin\Debug\RegistrWpfApp.exe
 E:\Мои документы\Магамет\C#\Долги\hehe\RegistrWpfApp\bin\Debug\RegistrWpfApp.pdb
 E:\Мои документы\Магамет\C#\Долги\hehe\RegistrWpfApp\obj\Debug\RegistrWpfApp.csproj.AssemblyReference.cache
-E:\Мои документы\Магамет\C#\Долги\hehe\RegistrWpfApp\obj\Debug\RegistrWpfApp.csproj.SuggestedBindingRedirects.cache
 E:\Мои документы\Магамет\C#\Долги\hehe\RegistrWpfApp\obj\Debug\MainWindow.g.cs
 E:\Мои документы\Магамет\C#\Долги\hehe\RegistrWpfApp\obj\Debug\App.g.cs
 E:\Мои документы\Магамет\C#\Долги\hehe\RegistrWpfApp\obj\Debug\RegistrWpfApp_MarkupCompile.cache
