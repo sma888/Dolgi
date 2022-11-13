@@ -1,0 +1,28 @@
+﻿<Window x:Class="GroupViewWPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:GroupViewWPF"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800" Background="Black" FontSize="24">
+    <Grid>
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+            </Grid.RowDefinitions>
+            <TextBox Text="{Binding Group}" Margin="35" Background="LightGray"/>
+            <TextBox Text="{Binding NumberOfGroup}" Margin="35" Grid.Row="1" Background="LightGray"/>
+            <Grid Grid.Row="2">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="0.5*"/>
+                    <ColumnDefinition/>
+                </Grid.ColumnDefinitions>
+                <Button Margin="30" Grid.Row="2" Content="Отобразить" Command="{Binding ShowBtn}" Background="LightGray"/>
+                <TextBlock Text="{Binding NameOfGroup}" Margin="30" Grid.Column="1" Background="LightGray"/>
+            </Grid>
+        </Grid>
+    </Grid>
+</Window>
